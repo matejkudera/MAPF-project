@@ -1,7 +1,7 @@
 # MAPF-project
 
 Authors:
-Matěj Kudera, matej.kudera@uni-potsdam.de
+Matěj Kudera, matej.kudera@uni-potsdam.de <br/>
 Eliška Cigánová, eliska.ciganova@uni-potsdam.de
 
 TODO
